@@ -3,4 +3,5 @@
 #9/5/17
 #face.py
 
-print (XXXXX)
+print ("   XXXXX  ")
+print ("X          X")
