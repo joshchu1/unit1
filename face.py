@@ -4,4 +4,4 @@
 #face.py
 
 print ("   XXXXX  ")
-print ("X          X")
+print ("X         X")
