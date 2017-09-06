@@ -5,4 +5,5 @@
 
 kilometers = input("number of kilometers")
 print (kilometers)
+miles= int (input("kiometer to miles"))
 
