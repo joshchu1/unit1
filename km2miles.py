@@ -4,3 +4,5 @@
 #km2miles.py
 
 kilometers = input("number of kilometers")
+print (kilometers)
+
